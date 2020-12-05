@@ -1,3 +1,3 @@
-# ssh-mint
+# ssh Pop!\_os
 
 ## Simple test ssh
